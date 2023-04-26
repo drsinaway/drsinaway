@@ -2,7 +2,7 @@
 <h1 align="center">ꜰʀᴏᴍ ꜱᴋɪᴅᴅɪᴇꜱ ᴛᴏ ꜱᴋɪᴅᴅɪᴇꜱ 🗿 </h1>
 <p>ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ sʟᴇᴇᴘɪɴɢ. ᴅᴏɴᴛ sᴜʏʏʏ ᴍᴇ!</p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/25004320/228358872-7cf32aa7-c25e-4fcf-a0f3-a275ee2316f7.png"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/drsinaway/drsinaway/main/resources/redhat.png"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pari-malam&label=Profile%20views&color=0e75b6&style=flat" alt="pari-malam" /> </p>
 
 ## 💻 Tech Stack:
