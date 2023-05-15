@@ -15,11 +15,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=Pari-Malam&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/drsinaway)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pari-Malam&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/drsinaway)
 
 [<img src="https://github.com/drsinaway/drsinaway/blob/main/resources/hr.gif"/>](https://github.com/drsinaway)
-</p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pari-Malam&theme=discord&no-frame=false&no-bg=false&margin-w=4)
