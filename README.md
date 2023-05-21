@@ -3,7 +3,6 @@
 <p>ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ sʟᴇᴇᴘɪɴɢ. ᴅᴏɴᴛ sᴜʏʏʏ ᴍᴇ!</p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/drsinaway/drsinaway/main/resources/redhat.png"/> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/drsinaway/XSS-EGY-CYBER-ARMY/50e185b306ca7edd4de4b9fbb2fea4755d61b413/Cyber%20Army.png"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pari-malam&label=Profile%20views&color=0e75b6&style=flat" alt="DrSINAWAY" /> </p>
 
 ## 💻 Tech Stack:
